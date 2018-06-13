@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Jesse Wang <mr@jianqing.wang>",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "babel-core": "~6.26.3",
+    "babel-preset-env": "~1.7.0",
+    "babel-register": "~6.26.0",
+    "mocha": "~5.2.0"
+  }
 }
